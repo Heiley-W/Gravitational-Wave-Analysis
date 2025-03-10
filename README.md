@@ -10,7 +10,7 @@ This repository contains tutorials and scripts for generating and analyzing **gr
 - Visualizing gravitational wave signals
 - Generating time-domain and frequency-domain waveforms
   
-### 📌 [GW2: Cleaning Noise in Gravitational Wave Data: Understanding and Mitigating Interference]([link-to-your-tutorial](https://medium.com/@shwongheiley/gw2-cleaning-noise-in-gravitational-wave-data-understanding-and-mitigating-interference-3d2fabc838b2))  
+### 📌 [GW2: Cleaning Noise in Gravitational Wave Data: Understanding and Mitigating Interference](https://medium.com/@shwongheiley/gw2-cleaning-noise-in-gravitational-wave-data-understanding-and-mitigating-interference-3d2fabc838b2)
 - Preprocessing detector data  
 - Computing Power Spectral Density (PSD) and Amplitude Spectral Density (ASD) graph
 GW3: Q-Transform: A Time-Frequency Analysis for Gravitational Waves

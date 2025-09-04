@@ -1,6 +1,10 @@
 # Gravitational Wave Analysis with PyCBC  
 
-This repository contains tutorials and scripts for generating and analyzing **gravitational waveforms** using **PyCBC**, a widely used Python library in gravitational wave astronomy.
+This repository contains tutorials and scripts for generating and analysing **gravitational waveforms** using **PyCBC**, a widely used Python library in gravitational wave astronomy. All the steps are documented in the respective Jupyter Notebooks, and more detailed explanations and theories can be found in the articles publised on Medium. 
+
+**Main objectives**
+• Match gravitational waves to theoretical waveforms, identifying black hole mergers
+• Apply Markov Chain Monte Carlo for Bayesian Inference to estimate parameters of mergers
 
 ## [Introduction](https://medium.com/@shwongheiley/gw0-unlocking-the-cosmos-a-journey-into-gravitational-wave-analysis-f83f44c448d9)
 
@@ -23,7 +27,7 @@ GW3: Q-Transform: A Time-Frequency Analysis for Gravitational Waves
 - Generate time-domain and frequency-domain waveforms
 
 ### 📌 [GW5: Detecting Gravitational Waves with Matched Filtering: A Step-by-Step Guide]
-- Apply matched filtering to identify gravitational wave signal 
+- Apply matched filtering to identify the gravitational wave signal 
 
 ## 📡 References & Resources  
 - **Gravitational Wave Open Science Center (GWOSC)**: [2024 Open Data Workshop](https://gwosc.org/workshops/)  
